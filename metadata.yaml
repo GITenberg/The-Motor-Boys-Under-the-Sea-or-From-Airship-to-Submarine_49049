@@ -1,4 +1,8 @@
 _repo: The-Motor-Boys-Under-the-Sea-or-From-Airship-to-Submarine_49049
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49049-h/images/cover.jpg
 creator:
   author:
     agent_name: Young, Clarence
@@ -6,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1632
     wikipedia: http://en.wikipedia.org/wiki/Clarence_Young
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49049#The-Motor-Boys-Under-the-Sea-or-From-Airship-to-Submarine
 gutenberg_issued: '2015-05-26'
 gutenberg_type: Text
 identifiers:
